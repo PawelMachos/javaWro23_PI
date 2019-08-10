@@ -7,7 +7,6 @@ public class Person {
 
     private List<Language> languages;
 
-
     public Person(Language language) {
         languages = new ArrayList<Language>();
         languages.add(language);
